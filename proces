@@ -1,0 +1,859 @@
+kkkUID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 13:19 ?        00:00:02 /sbin/init splash
+root         2     0  0 13:19 ?        00:00:00 [kthreadd]
+root         3     2  0 13:19 ?        00:00:00 [ksoftirqd/0]
+root         5     2  0 13:19 ?        00:00:00 [kworker/0:0H]
+root         7     2  0 13:19 ?        00:00:02 [rcu_sched]
+root         8     2  0 13:19 ?        00:00:00 [rcu_bh]
+root         9     2  0 13:19 ?        00:00:00 [migration/0]
+root        10     2  0 13:19 ?        00:00:00 [lru-add-drain]
+root        11     2  0 13:19 ?        00:00:00 [watchdog/0]
+root        12     2  0 13:19 ?        00:00:00 [cpuhp/0]
+root        13     2  0 13:19 ?        00:00:00 [cpuhp/1]
+root        14     2  0 13:19 ?        00:00:00 [watchdog/1]
+root        15     2  0 13:19 ?        00:00:00 [migration/1]
+root        16     2  0 13:19 ?        00:00:00 [ksoftirqd/1]
+root        18     2  0 13:19 ?        00:00:00 [kworker/1:0H]
+root        19     2  0 13:19 ?        00:00:00 [cpuhp/2]
+root        20     2  0 13:19 ?        00:00:00 [watchdog/2]
+root        21     2  0 13:19 ?        00:00:00 [migration/2]
+root        22     2  0 13:19 ?        00:00:00 [ksoftirqd/2]
+root        24     2  0 13:19 ?        00:00:00 [kworker/2:0H]
+root        25     2  0 13:19 ?        00:00:00 [cpuhp/3]
+root        26     2  0 13:19 ?        00:00:00 [watchdog/3]
+root        27     2  0 13:19 ?        00:00:00 [migration/3]
+root        28     2  0 13:19 ?        00:00:00 [ksoftirqd/3]
+root        30     2  0 13:19 ?        00:00:00 [kworker/3:0H]
+root        31     2  0 13:19 ?        00:00:00 [kdevtmpfs]
+root        32     2  0 13:19 ?        00:00:00 [netns]
+root        33     2  0 13:19 ?        00:00:00 [khungtaskd]
+root        34     2  0 13:19 ?        00:00:00 [oom_reaper]
+root        35     2  0 13:19 ?        00:00:00 [writeback]
+root        36     2  0 13:19 ?        00:00:00 [kcompactd0]
+root        37     2  0 13:19 ?        00:00:00 [ksmd]
+root        38     2  0 13:19 ?        00:00:00 [khugepaged]
+root        39     2  0 13:19 ?        00:00:00 [crypto]
+root        40     2  0 13:19 ?        00:00:00 [kintegrityd]
+root        41     2  0 13:19 ?        00:00:00 [bioset]
+root        42     2  0 13:19 ?        00:00:00 [kblockd]
+root        44     2  0 13:19 ?        00:00:00 [ata_sff]
+root        45     2  0 13:19 ?        00:00:00 [md]
+root        46     2  0 13:19 ?        00:00:00 [devfreq_wq]
+root        47     2  0 13:19 ?        00:00:00 [watchdogd]
+root        50     2  0 13:19 ?        00:00:00 [kswapd0]
+root        51     2  0 13:19 ?        00:00:00 [vmstat]
+root        52     2  0 13:19 ?        00:00:00 [ecryptfs-kthrea]
+root        91     2  0 13:19 ?        00:00:00 [kthrotld]
+root        92     2  0 13:19 ?        00:00:00 [acpi_thermal_pm]
+root        94     2  0 13:19 ?        00:00:00 [bioset]
+root        95     2  0 13:19 ?        00:00:00 [bioset]
+root        96     2  0 13:19 ?        00:00:00 [bioset]
+root        98     2  0 13:19 ?        00:00:00 [bioset]
+root        99     2  0 13:19 ?        00:00:00 [bioset]
+root       100     2  0 13:19 ?        00:00:00 [bioset]
+root       101     2  0 13:19 ?        00:00:00 [bioset]
+root       102     2  0 13:19 ?        00:00:00 [bioset]
+root       106     2  0 13:19 ?        00:00:00 [ipv6_addrconf]
+root       128     2  0 13:19 ?        00:00:00 [deferwq]
+root       129     2  0 13:19 ?        00:00:00 [charger_manager]
+root       172     2  0 13:19 ?        00:00:00 [kpsmoused]
+root       173     2  0 13:19 ?        00:00:00 [scsi_eh_0]
+root       174     2  0 13:19 ?        00:00:00 [scsi_tmf_0]
+root       175     2  0 13:19 ?        00:00:00 [scsi_eh_1]
+root       176     2  0 13:19 ?        00:00:00 [scsi_tmf_1]
+root       177     2  0 13:19 ?        00:00:00 [scsi_eh_2]
+root       178     2  0 13:19 ?        00:00:00 [scsi_tmf_2]
+root       179     2  0 13:19 ?        00:00:00 [scsi_eh_3]
+root       180     2  0 13:19 ?        00:00:00 [scsi_tmf_3]
+root       181     2  0 13:19 ?        00:00:00 [scsi_eh_4]
+root       182     2  0 13:19 ?        00:00:00 [scsi_tmf_4]
+root       183     2  0 13:19 ?        00:00:00 [scsi_eh_5]
+root       184     2  0 13:19 ?        00:00:00 [scsi_tmf_5]
+root       191     2  0 13:19 ?        00:00:00 [i915/signal:0]
+root       193     2  0 13:19 ?        00:00:00 [i915/signal:2]
+root       197     2  0 13:19 ?        00:00:00 [bioset]
+root       199     2  0 13:19 ?        00:00:00 [bioset]
+root       224     2  0 13:19 ?        00:00:00 [kworker/1:1H]
+root       225     2  0 13:19 ?        00:00:00 [kworker/0:1H]
+root       227     2  0 13:19 ?        00:00:00 [jbd2/sda1-8]
+root       228     2  0 13:19 ?        00:00:00 [ext4-rsv-conver]
+root       262     2  0 13:19 ?        00:00:00 [kauditd]
+root       264     1  0 13:19 ?        00:00:00 /lib/systemd/systemd-journald
+root       270     2  0 13:19 ?        00:00:00 [kworker/2:1H]
+root       289     1  0 13:19 ?        00:00:00 /lib/systemd/systemd-udevd
+root       309     2  0 13:19 ?        00:00:00 [kworker/3:1H]
+root       380     2  0 13:19 ?        00:00:00 [ips-adjust]
+root       381     2  0 13:19 ?        00:00:00 [ips-monitor]
+root       438     2  0 13:19 ?        00:00:00 [kvm-irqfd-clean]
+root       439     2  0 13:19 ?        00:00:00 [cfg80211]
+systemd+   684     1  0 13:19 ?        00:00:00 /lib/systemd/systemd-timesyncd
+root       787     1  0 13:19 ?        00:00:00 /usr/sbin/cupsd -l
+message+   788     1  0 13:19 ?        00:00:03 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+whoopsie   790     1  0 13:19 ?        00:00:00 /usr/bin/whoopsie -f
+root       792     1  0 13:19 ?        00:00:00 /lib/systemd/systemd-logind
+root       798     1  0 13:19 ?        00:00:00 /usr/sbin/ModemManager
+avahi      803     1  0 13:19 ?        00:00:00 avahi-daemon: running [kudipudi.local]
+root       807     1  0 13:19 ?        00:00:00 /sbin/cgmanager -m name=systemd
+root       810     1  0 13:19 ?        00:00:00 /usr/sbin/cron -f
+syslog     811     1  0 13:19 ?        00:00:00 /usr/sbin/rsyslogd -n
+root       813     1  0 13:19 ?        00:00:01 /usr/sbin/NetworkManager --no-daemon
+root       829     1  0 13:19 ?        00:00:00 /usr/sbin/acpid
+avahi      835   803  0 13:19 ?        00:00:00 avahi-daemon: chroot helper
+root       837     1  0 13:19 ?        00:00:00 /usr/lib/accountsservice/accounts-daemon
+root       838     1  0 13:19 ?        00:00:00 /usr/lib/snapd/snapd
+root       851     1  0 13:19 ?        00:00:00 /usr/sbin/cups-browsed
+root       873     1  0 13:19 ?        00:00:00 /usr/lib/policykit-1/polkitd --no-debug
+root       950     1  0 13:19 ?        00:00:00 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+systemd+   968     1  0 13:19 ?        00:00:00 /lib/systemd/systemd-resolved
+root       979     1  0 13:19 ?        00:00:00 /usr/sbin/lightdm
+root       980     1  0 13:19 ?        00:00:00 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+root      1023   979  0 13:19 tty7     00:00:50 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root      1029     1  0 13:19 tty1     00:00:00 /sbin/agetty --noclear tty1 linux
+root      1153     1  0 13:20 ?        00:00:02 /opt/teamviewer/tv_bin/teamviewerd -d
+root      1154     1  0 13:20 ?        00:00:00 /usr/sbin/apache2 -k start
+www-data  1156  1154  0 13:20 ?        00:00:00 /usr/sbin/apache2 -k start
+www-data  1157  1154  0 13:20 ?        00:00:00 /usr/sbin/apache2 -k start
+root      1318     1  0 13:20 ?        00:00:00 /usr/lib/upower/upowerd
+rtkit     1359     1  0 13:20 ?        00:00:00 /usr/lib/rtkit/rtkit-daemon
+root      1374   979  0 13:20 ?        00:00:00 lightdm --session-child 12 19
+colord    1384     1  0 13:20 ?        00:00:00 /usr/lib/colord/colord
+kudipudi  1648  1424  0 13:22 ?        00:00:00 /usr/lib/gvfs/gvfsd
+kudipudi  1659  1424  0 13:22 ?        00:00:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+kudipudi  1675  1501  0 13:22 ?        00:00:01 upstart-dbus-bridge --daemon --session --user --bus-name session
+kudipudi  1677  1501  0 13:22 ?        00:00:01 upstart-dbus-bridge --daemon --system --user --bus-name system
+kudipudi  1688  1501  0 13:22 ?        00:00:00 upstart-file-bridge --daemon --user
+kudipudi  1689  1424  0 13:22 ?        00:00:01 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+kudipudi  1707  1424  0 13:22 ?        00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+kudipudi  1710  1501  0 13:22 ?        00:00:00 /usr/lib/x86_64-linux-gnu/hud/hud-service
+kudipudi  1727  1707  0 13:22 ?        00:00:00 /usr/bin/dbus-daemon --config-file=/usr/share/defaults/at-spi2/accessibility.conf --nofork --print-address 3
+kudipudi  1747  1424  0 13:22 ?        00:00:00 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+kudipudi  1765  1501  0 13:22 ?        00:00:00 sleep infinity
+kudipudi  1841  1424  0 13:22 ?        00:00:00 /usr/lib/unity-settings-daemon/unity-settings-daemon
+kudipudi  1853  1424  0 13:22 ?        00:00:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+kudipudi  1875  1424  0 13:22 ?        00:00:04 /usr/bin/ibus-daemon --daemonize --xim --address unix:tmpdir=/tmp/ibus
+kudipudi  1915  1841  0 13:22 ?        00:00:00 syndaemon -i 1.0 -t -K -R
+kudipudi  1922  1875  0 13:22 ?        00:00:00 /usr/lib/ibus/ibus-dconf
+kudipudi  1925  1424  0 13:22 ?        00:00:03 /usr/bin/pulseaudio --start --log-target=syslog
+kudipudi  1926  1875  0 13:22 ?        00:00:01 /usr/lib/ibus/ibus-ui-gtk3
+kudipudi  1930  1424  0 13:22 ?        00:00:00 /usr/lib/ibus/ibus-x11 --kill-daemon
+kudipudi  1944  1875  0 13:22 ?        00:00:01 /usr/lib/ibus/ibus-engine-simple
+kudipudi  1967  1853  0 13:22 ?        00:00:05 /usr/bin/gnome-software --gapplication-service
+kudipudi  1969  1424  0 13:22 ?        00:00:49 /usr/bin/compiz
+kudipudi  1973  1853  0 13:22 ?        00:00:01 nm-applet
+kudipudi  1974  1853  0 13:22 ?        00:00:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+kudipudi  1984  1424  0 13:22 ?        00:00:02 /usr/lib/x86_64-linux-gnu/unity/unity-panel-service
+kudipudi  1989  1853  0 13:22 ?        00:00:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+kudipudi  1993  1853  0 13:22 ?        00:00:01 nautilus -n
+kudipudi  1997  1853  0 13:22 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+kudipudi  2028  1424  0 13:22 ?        00:00:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+kudipudi  2031  1501  0 13:22 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+kudipudi  2032  1501  0 13:22 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+kudipudi  2033  1501  0 13:22 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+kudipudi  2036  1501  0 13:22 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+kudipudi  2037  1501  0 13:22 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard/indicator-keyboard-service --use-gtk
+kudipudi  2039  1501  0 13:22 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+kudipudi  2040  1501  0 13:22 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+kudipudi  2053  1501  0 13:22 ?        00:00:00 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+root      2101     1  0 13:22 ?        00:00:00 /usr/lib/udisks2/udisksd --no-debug
+kudipudi  2116  1424  0 13:22 ?        00:00:00 /usr/lib/evolution/evolution-source-registry
+root      2126     1  0 13:22 ?        00:00:00 /usr/lib/x86_64-linux-gnu/fwupd/fwupd
+kudipudi  2132  1424  0 13:22 ?        00:00:01 /usr/lib/x86_64-linux-gnu/notify-osd
+kudipudi  2140  1424  0 13:22 ?        00:00:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+kudipudi  2144  1424  0 13:22 ?        00:00:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+kudipudi  2148  1424  0 13:22 ?        00:00:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+kudipudi  2153  1424  0 13:22 ?        00:00:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+kudipudi  2159  1424  0 13:22 ?        00:00:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.20 /org/gtk/gvfs/exec_spaw/0
+kudipudi  2165  1424  0 13:22 ?        00:00:00 /usr/lib/evolution/evolution-calendar-factory
+kudipudi  2207  1424  0 13:22 ?        00:00:00 /usr/lib/gvfs/gvfsd-metadata
+kudipudi  2216  2165  0 13:22 ?        00:00:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory contacts --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx2165x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/2165/2
+kudipudi  2227  1424  0 13:22 ?        00:00:00 /usr/lib/evolution/evolution-addressbook-factory
+kudipudi  2230  2165  0 13:22 ?        00:00:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx2165x3 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/2165/3
+kudipudi  2252  2227  0 13:22 ?        00:00:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx2227x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/2227/2
+kudipudi  2259  1853  0 13:22 ?        00:00:00 zeitgeist-datahub
+kudipudi  2277  1424  0 13:22 ?        00:00:00 /bin/sh -c /usr/lib/x86_64-linux-gnu/zeitgeist/zeitgeist-maybe-vacuum; /usr/bin/zeitgeist-daemon
+kudipudi  2281  2277  0 13:22 ?        00:00:00 /usr/bin/zeitgeist-daemon
+kudipudi  2292  1424  0 13:22 ?        00:00:00 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+kudipudi  2316  1424  0 13:22 ?        00:00:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+kudipudi  2457  1853  0 13:23 ?        00:00:00 update-notifier
+kudipudi  2490  1853  0 13:24 ?        00:00:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+nobody    2555   813  0 13:25 ?        00:00:00 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/var/run/NetworkManager/dnsmasq.pid --listen-address=127.0.1.1 --cache-size=0 --conf-file=/dev/null --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+root      3178     1  0 13:25 ?        00:00:00 /usr/lib/packagekit/packagekitd
+root      3652     2  0 13:32 ?        00:00:01 [kworker/2:2]
+root      4241     2  0 14:04 ?        00:00:00 [kworker/3:1]
+root      4249     2  0 14:06 ?        00:00:00 [kworker/1:2]
+root      4260     2  0 14:11 ?        00:00:00 [kworker/0:0]
+root      4289     2  0 14:11 ?        00:00:00 [kworker/3:0]
+root      4328     2  0 14:20 ?        00:00:00 [kworker/0:1]
+root      4407     2  0 14:20 ?        00:00:00 [kworker/1:1]
+root      4487     2  0 14:59 ?        00:00:00 [kworker/u8:28]
+root      4526     2  0 14:59 ?        00:00:00 [irq/31-mei_me]
+root      4594   813  0 14:59 ?        00:00:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /var/run/dhclient-wlp18s0b1.pid -lf /var/lib/NetworkManager/dhclient-10c169df-dc98-429d-83df-1c3d7175de5a-wlp18s0b1.lease -cf /var/lib/NetworkManager/dhclient-wlp18s0b1.conf wlp18s0b1
+kudipudi  4758  1424  0 15:00 ?        00:00:03 /usr/lib/gnome-terminal/gnome-terminal-server
+kudipudi  4767  4758  0 15:00 pts/2    00:00:00 bash
+kudipudi  4801  4767  0 15:02 pts/2    00:00:00 cat
+root      4893     2  0 15:08 ?        00:00:00 [kworker/u8:0]
+root      4910     2  0 15:09 ?        00:00:00 [kworker/2:1]
+root      4934     2  0 15:14 ?        00:00:00 [kworker/u8:1]
+root      4948     2  0 15:17 ?        00:00:00 [kworker/0:2]
+kudipudi  4950  4767  0 15:19 pts/2    00:00:00 ps -ef
+    1  sudo apt-get update
+    2  sudo apt-get install virtualbox
+    3  sudo apt-get update
+    4  sudo apt-get install virtualbox
+    5  sudo apt-get install skypeforbussines
+    6  sudo apt-get install chrome-browser
+    7  sudo apt-get install libxss1 libappindicator1 libindicator7
+    8  exit
+    9  yum install google-chrome
+   10  sudo apt install yum
+   11  yum install google-chrome
+   12  sudo apt install chtome
+   13  sudo apt install chrome
+   14  sudo apt install google
+   15  sudo apt install *google
+   16  sudo apt install *google-chrome
+   17  sudo apt install *chrome
+   18  init 
+   19  restart
+   20  exit
+   21  apt-get purge *virtualbox
+   22  sudo apt-get purge *virtualbox
+   23  apt-get install virtualbox-5.1
+   24  uname -r4
+   25  uname -r
+   26  uname -a
+   27  lsb_release -a 
+   28  sudo apt-get update
+   29  sudo sh -c 'echo "deb http://download.virtualbox.org/virtualbox/debian yakkety contrib" >> /etc/apt/sources.list.d/virtualbox.list'
+   30  wget -q https://www.virtualbox.org/download/oracle_vbox_2016.asc -O- | sudo apt-key add -
+   31  https://www.linuxtechi.com/install-putty-in-ubuntu/
+   32  wget -q https://www.virtualbox.org/download/oracle_vbox.asc -O- | sudo apt-key add -
+   33  sudo apt-get update
+   34  sudo apt-get install virtualbox-5.1
+   35  mkdir os
+   36  cd os
+   37  ls
+   38  vagrant init
+   39  apt-get install vagrant
+   40  sudo apt-get install vagrant
+   41  ls
+   42  vagrant init
+   43  ls
+   44  vim Vagrantfile 
+   45  sudo vim Vagrantfile 
+   46  apt-get install vim
+   47  sudo apt-get install vim
+   48  sudo vim Vagrantfile 
+   49  vagrant up
+   50  sudo vim Vagrantfile 
+   51  vagrant up
+   52  cat > allam
+   53  ls -a
+   54  ll -a
+   55  cat allam 
+   56  dtae
+   57  date
+   58  ll -a
+   59  touch allam
+   60  ll -a
+   61  cat allam 
+   62  umask
+   63  init 0
+   64  png
+   65  ping
+   66  ifconfig
+   67  setup
+   68  wlp18s0b up
+   69  eth0 up
+   70  bash << eof
+   71  mkdir trainig
+   72  rm -rf trainig
+   73  mkdir training
+   74  cd training
+   75  mkdir vagrant
+   76  cd
+   77  mkdir devops
+   78  mv training devops
+   79  eof
+   80  ls
+   81  cd devops/
+   82  ls
+   83  cd training/
+   84  ls
+   85  cd vagrant/
+   86  ls
+   87  pwd
+   88  exit
+   89  apt-get install update
+   90  sudo \apt-get install update
+   91  sudo apt-get install update
+   92  sudo apt-get install flash_player
+   93  sudo wget http://archive.ubuntu.com/ubuntu/pool/multiverse/f/flashplugin-nonfree/flashplugin-installer_11.2.202.233ubuntu2_i386.deb
+   94  sudo apt-get update
+   95  sudo apt-get install flash_player
+   96  sudo apt-get install flashplugin-installer
+   97  sleep 10; init 6
+   98  python
+   99  mkdir python
+  100  python
+  101  which python
+  102  vim hello.py
+  103  ls
+  104  cd python/
+  105  \ls
+  106  ls
+  107  cd
+  108  ls -l
+  109  utar flashplugin-installer_11.2.202.233ubuntu2_i386.deb 
+  110  ls
+  111  exit
+  112  cd Downloads/
+  113  ls
+  114  ssh -i metro-ec2-ohio.pem ubuntu@52.15.105.176
+  115  sudo ssh -i metro-ec2-ohio.pem ubuntu@52.15.105.176
+  116  exit
+  117  cd Do
+  118  cd Downloads/
+  119  ls
+  120  sudo ssh -i metro-ec2-ohio.pem ubuntu@52.15.105.176
+  121  ls
+  122  mkdir training
+  123  cd training/
+  124  ls
+  125  mkdir exam
+  126  cd exam/
+  127  ls
+  128  mkdir 3vms
+  129  cd 3vms/
+  130  ls
+  131  vim 3vms.sh
+  132  cd
+  133  cd training/
+  134  cd exam/
+  135  ls
+  136  cd ..
+  137  sleep 5; init 0
+  138  ls
+  139  exit
+  140  sudo apt-get update
+  141  apt-get install vlc*
+  142  sudo apt-get install vlc*
+  143  exit
+  144  init 0
+  145  cd training/
+  146  d
+  147  ls
+  148  cd exam/
+  149  ls
+  150  cd 3vms/
+  151  ls
+  152  cd
+  153  cd Downloads/
+  154  ls
+  155  mv CJP-Tomcat-Ohi.pem /home/kudipudi/training/
+  156  mv trainingj /home/kudipudi/training/
+  157  mv jenkins2-test-Ohio.pem /home/kudipudi/training/
+  158  ls
+  159  cd
+  160  cd training/
+  161  ls
+  162  mkdir keys
+  163  mv CJP-Tomcat-Ohi.pem keys/
+  164  mv jenkins2-test-Ohio.pem keys/
+  165  mv trainingj keys/
+  166  ls
+  167  cd keys/
+  168  ls
+  169  sudo ssh -i CJP-Tomcat-Ohi.pem cenot@13.58.164.25
+  170  ssh -i CJP-Tomcat-Ohi.pem cenot@13.58.164.25
+  171  sudo ssh -i CJP-Tomcat-Ohi.pem cenot@13.58.164.25
+  172  sudo ssh -i jenkins2-test-Ohio.pem cenot@13.58.164.25
+  173  sudo ssh -i CJP-Tomcat-Ohi.pem cenos@13.58.164.25
+  174  sudo ssh -i CJP-Tomcat-Ohi.pem centos@13.58.164.25
+  175  exit
+  176  init 0
+  177  vi /etc/syslog.conf
+  178  ls /var/log
+  179  cd /var/log
+  180  ls
+  181  cat kern.log
+  182  ls
+  183  cdcd
+  184  cd
+  185  ls
+  186  cd training/
+  187  ls
+  188  cd keys/
+  189  sudo ssh -i jenkins2-test-Ohio.pem ubuntu@52.14.64.91
+  190  sudo ssh -i trainingj ubuntu@52.14.64.91
+  191  sudo ssh -i jenkins2-test-Ohio.pem ubuntu@52.14.64.91
+  192  sudo ssh -i trainingj ubuntu@52.14.64.91
+  193  sudo ssh -i jenkins2-test-Ohio.pem ubuntu@18.220.167.136
+  194  exit
+  195  man curl
+  196  curl www.google.com
+  197  curl http://www.google.co.in
+  198  ls
+  199  ls /var/lib/jen
+  200  exit
+  201  cd training/keys/
+  202  sudo ssh -i jenkins-Ohio.pem ubuntu@52.14.134.76
+  203  sudo ssh -i jenkins-Ohio.pem ubuntu@52.14.134.76
+  204  sudo ssh -i jenkins-Ohio.pem ubuntu@13.58.237.108
+  205  sudo ssh -i jenkins-Ohio.pem ubuntu@52.14.134.76
+  206  sr
+  207  exit
+  208  cd training/keys_all/
+  209  sudo ssh -i EC2-instance-key.pem ubuntu@52.15.47.139
+  210  exit
+  211  passwd kudipudi
+  212  sudo -i
+  213  passwd kudipudi
+  214  exit
+  215  cd Downloads/
+  216  ls
+  217  tar -x d
+  218  tar -x DevOps_Resume.rar 
+  219  tar -xvf DevOps_Resume.rar 
+  220  unzip D
+  221  untar DevOps_Resume.rar 
+  222  sudp apt-get install unrar -y
+  223  unrar Devo
+  224  unrar DevOps_Resume.rar 
+  225  ls
+  226  vi transaction_dispute_form
+  227  exit
+  228  sudp apt-get update
+  229  sudo apt-get update
+  230  sudo apt-get install playonlinux
+  231  ping bing.com
+  232  exit
+  233  cd training/ansible_project/
+  234  ls
+  235  vi Vagrantfile 
+  236  vagrant up
+  237  ls
+  238  mkdir Vms
+  239  mv Vagrantfile Vms/
+  240  ls
+  241  mkdir control_home
+  242  cd Vms/
+  243  vagrant up
+  244  vagrant halt
+  245  init 0
+  246  free -m
+  247  ls
+  248  mvn
+  249  java -version
+  250  java --version
+  251  sudo apt-get update
+  252  lsblk
+  253  sudo mount -o remount,rw /sdb/sdb1
+  254  sudo mount -o remount,rw /dev/sdb1
+  255  init 0
+  256  cd Downloads/
+  257  ls
+  258  sudo ssh -i EC2-instance-key.pem ubuntu@13.58.198.232
+  259  sudo ssh -i EC2-instance-key.pem ubuntu@18.221.153.7
+  260  sudo ssh -i EC2-instance-key.pem centos@18.221.153.7
+  261  exit
+  262  cd Downloads/
+  263  sudo ssh -i EC2-instance-key.pem ubuntu@18.221.122.145
+  264  exit
+  265  sudo service --status-all
+  266  sudo service --status-all | less
+  267  sudo service --status-all
+  268  ssh
+  269  man cron
+  270  man anacron
+  271  man ufw 
+  272  man mysql
+  273  man ssh
+  274  man https
+  275  man httpd
+  276  man apache2
+  277  sudo apt-get install apache2
+  278  man apache2
+  279  sudo apt-get install mysql
+  280  cd training/keys
+  281  ls
+  282  cd 
+  283  cd Downloads/
+  284  ls
+  285  man tomcat
+  286  man ssh
+  287  man crontab
+  288  man cron
+  289  man crontab 
+  290  man anacron
+  291  sudo service --status-all
+  292  man rsync
+  293  man ufw
+  294  init 0
+  295  ifconfig
+  296  exit
+  297  dmidecode | grep DDR
+  298  sudo dmidecode | grep DDR
+  299  sudo dmidecode | grep device
+  300  sudo dmidecode | grep Device
+  301  free -m
+  302  sudo dmidecode
+  303  free -m
+  304  sudo dmidecode | grep DDR
+  305  sudo dmidecode | grep Device
+  306  exiy
+  307  exit
+  308  init 0
+  309  tty
+  310  exit
+  311  tty
+  312  exit
+  313  crontab -e
+  314  crontab -l
+  315  crontab -u root
+  316  sudo crontab -u root
+  317  sudo crontab -u kudipudi
+  318  cd ku
+  319  cd Downloads/
+  320  ls
+  321  mkdir /home/kudipudi/kudipudi
+  322  mv EC2key-virginia.pem /home/kudipudi/kudipudi/
+  323  cd
+  324  cd kudipudi/
+  325  sudo ssh -i EC2key-virginia.pem centos@54.86.44.153
+  326  exit
+  327  tty
+  328  exit
+  329  tty
+  330  exit
+  331  tty
+  332  exit
+  333  tty
+  334  exit
+  335  crontab -e
+  336  vi /etc/crontab
+  337  tty
+  338  date
+  339  sudo vi /etc/crontab
+  340  crontab -e
+  341  sudo service crond restart
+  342  sudo service crontab restart
+  343  sudo service cron restart
+  344  tty
+  345  vi /etc/cron
+  346  vi /etc/crontab 
+  347  sudo apt-get update
+  348  sudo apt-get install crontab
+  349  nano crontab
+  350  crontab -l
+  351  crontab -le
+  352  crontab -e
+  353  sudo crontab -e
+  354  sudo service cron restart
+  355  vi /etc/crontab 
+  356  tty
+  357  crontab -e
+  358  sudo crontab -e
+  359  sudo vi /etc/crontab 
+  360  du
+  361  sudo vi /etc/crontab 
+  362  nano crontab
+  363  sudo cr
+  364  sudo crontab -e
+  365  sudo service cron restart
+  366  exit
+  367  cd ku
+  368  cd kudipudi/
+  369  sudo ssh -i EC2key-virginia.pem centos@54.86.44.153
+  370  exit
+  371  <top
+  372  top
+  373  exit
+  374  sudo apt-get -y install mtp-tools mtpfs gmtp  -y
+  375  exit
+  376  cd /run/user/1000/gvfs/mtp:host=%5Busb%3A002%2C007%5D/Internal shared storage/DCIM
+  377  sudo cd /run/user/1000/gvfs/mtp:host=%5Busb%3A002%2C007%5D/Internal shared storage/DCIM
+  378  cd /run/user/
+  379  ls
+  380  cd 1000/
+  381  ls
+  382  cd gvfs/mtp\:host\=%5Busb%3A002%2C007%5D/
+  383  ls
+  384  cd Internal\ shared\ storage/
+  385  ls
+  386  cd DCIM/
+  387  ls
+  388  cd ..
+  389  ls
+  390  mkdir mrg
+  391  sudo mkdir mrg
+  392  ls -la
+  393  exit
+  394  pwd
+  395  cd
+  396  cd Pictures/
+  397  ls
+  398  cd MARRIAGE\ DATA/
+  399  ls
+  400  cd DAT/
+  401  ls
+  402  cd 00/
+  403  ls
+  404  sudo cp IMG_9298.JPG /run/user/1000/gvfs/mtp:host=%5Busb%3A002%2C007%5D/Internal shared storage/DCIM
+  405  exit
+  406  top
+  407  which top
+  408  which which
+  409  which whic
+  410  which man
+  411  man top
+  412  top
+  413  free
+  414  free -m
+  415  free -g
+  416  free -gm
+  417  man free
+  418  free -h
+  419  exit
+  420  crontab
+  421  exit
+  422  crontab -e
+  423  vim crontab -e
+  424  ls
+  425  ls -la
+  426  docker 
+  427  doker --version
+  428  docker --version
+  429  exit
+  430  top
+  431  exit
+  432  top
+  433  exit
+  434  ping google.com
+  435  exit
+  436  ping google.com
+  437  exit
+  438  top
+  439  init 0
+  440  ansble
+  441  ansible
+  442  top
+  443  free
+  444  free -m
+  445  fdisk
+  446  sudo fdisk
+  447  sudo fdisk -l
+  448  mount
+  449  mount -u
+  450  df -h
+  451  df -hT
+  452  ls -la
+  453  ls 
+  454  ls -l
+  455  ls -a
+  456  ls -la
+  457  exit
+  458  top
+  459  exit
+  460  crontab -e
+  461  exit
+  462  init 0
+  463  ping google.com
+  464  exit
+  465  init 0
+  466  cd Downloads/
+  467  ls
+  468  cd
+  469  cd kudipudi/
+  470  ls
+  471  vi EC2key-virginia.pem
+  472  version -jenking
+  473  version -jenkins
+  474  jenkins
+  475  cd
+  476  cd /var/log/apache2/
+  477  ls
+  478  cd
+  479  service apache2 start
+  480  sudo service ufw stop
+  481  ifconfig
+  482  cd kudipudi/
+  483  ls -l
+  484  cdmod 400 EC2key-virginia.pem 
+  485  sudo cdmod 400 EC2key-virginia.pem 
+  486  chmod 400 EC2key-virginia.pem 
+  487  ls -l
+  488  ssh -i EC2key-virginia.pem ubuntu@54.152.50.243
+  489  exit
+  490  ssh kudipudi@54.152.50.243
+  491  exit
+  492  ssh ubuntu@54.152.50.243
+  493  cd kudipudi/
+  494  ssh -i EC2key-virginia.pem ubuntu@54.152.50.243
+  495  ssh kudipudi@54.152.50.243
+  496  sudo ssh -i EC2key-virginia.pem ubuntu@54.152.50.243
+  497  ssh kudipudi@54.152.50.243
+  498  exit
+  499  ssh kudipudi@54.152.50.243
+  500  exit
+  501  ssh kudipudi@54.152.50.243
+  502  ssh ubuntu@54.152.50.243
+  503  init 0
+  504  cd kudipudi/
+  505  ssh kudipudi@54.152.50.243
+  506  ssh -i EC2key-virginia.pem ubuntu@54.152.50.243
+  507  vi fabfile.py
+  508  python
+  509  fab -H 54.152.50.243 -u ubuntu -p '76924630a' ansible
+  510  sudo apt install fabric
+  511  fab -H 54.152.50.243 -u ubuntu -p '76924630a' ansible
+  512  vi fa
+  513  vi fabfile.py 
+  514  exit
+  515  apt-get purge virtualbox-5.1*
+  516  sudo apt-get purge virtualbox-5.1*
+  517  exit
+  518  python --version
+  519  ansible --version
+  520  ansible
+  521  exitg
+  522  exit
+  523  sudo -i
+  524  exit
+  525  gnome-terminal
+  526  exit
+  527  gnome-terminal
+  528  exit
+  529  gnome-terminal
+  530  exit
+  531  gnome-terminal
+  532  exit
+  533  sudo -i
+  534  gnome-terminal
+  535  exit
+  536  gnome-terminal
+  537  exit
+  538  gnome-terminal
+  539  exit
+  540  ls
+  541  cd kudipudi/
+  542  ls
+  543  vi fabfile.py 
+  544  ls
+  545  vi EC2key-virginia.pem 
+  546  ls
+  547  gnome-terminal
+  548  exit
+  549  top
+  550  exit
+  551  exitr
+  552  exit
+  553  uname -r
+  554  uname -a
+  555  exit
+  556  sudo apt-get update
+  557  sudo apt-get install putty
+  558  putty
+  559  exit
+  560  who -r
+  561  uname -a
+  562  rpm -a
+  563  rpm -qa
+  564  finger 
+  565  exit
+  566  sudo apt-get upgrade google-chrome-stable 
+  567  sudo apt-get update
+  568  exit
+  569  time
+  570  date
+  571  exit
+  572  top
+  573  exit
+  574  ps -ef
+  575  tree
+  576  exit
+  577  sudo -u
+  578  sudo -i
+  579  exit
+  580  ls
+  581  ls -lts
+  582  pwd
+  583  which ls
+  584  which fdisk
+  585  exit
+  586  ls
+  587  mkdir linux
+  588  ls
+  589  cd linux/
+  590  ls
+  591  touch f1 f2 f3 f4 f5 f6 f7
+  592  cat > f1 
+  593  ls
+  594  pwd
+  595  cat f1
+  596  cd
+  597  ls
+  598  cd kudipudi/
+  599  ls
+  600  cd
+  601  cd devops/
+  602  ls
+  603  cd tre
+  604  cd training/
+  605  ls
+  606  cd vagrant/
+  607  ls
+  608  pwd
+  609  cp /home/kudipudi/linux/f1 /home/kudipudi/linux/f7
+  610  ls
+  611  touch f8
+  612  pwd
+  613  ls
+  614  ls -la
+  615  pwd
+  616  ls
+  617  pwd
+  618  ls
+  619  pwd
+  620  cat f8
+  621  cd
+  622  cd linux/
+  623  ls
+  624  cat f1
+  625  ls
+  626  pwd
+  627  cd
+  628  pwd
+  629  ls
+  630  cd linux/
+  631  4ls
+  632  ls
+  633  4ls
+  634  ls
+  635  cp f1 /home/kudipudi/devops/training/vagrant/f8 
+  636  history
+  637  ls
+  638  cat f1
+  639  cat f6
+  640  mv f1 f6
+  641  ls
+  642  cat f6
+  643  ls
+  644  cp f6 f8
+  645  ls
+  646  cat f6
+  647  cp f6 f9
+  648  ls
+  649  cat f9
+  650  history
+  651  ps -ef
+  652  ps -ef > proces
+  653  ls
+  654  cat proces 
+  655  ls
+  656  cat f9
+  657  cat proces 
+  658  cat >> f9
+  659  cat f9 
+  660  history
+  661  history >> proces 
